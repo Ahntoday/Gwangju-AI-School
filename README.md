@@ -3,3 +3,5 @@
 ## [1주차 과제 (2020.05.21)](https://github.com/Ahntoday/Gwangju-AI-School/blob/master/1%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb "1주차 과제")
 
 ## [2주차 과제 (2020.06.03)]( "2주차 과제")
+
+## [3주차 과제 (2020.06.15)] ("3주차 과제")
